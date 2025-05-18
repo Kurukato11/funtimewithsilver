@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <div class="copyright3">
+            <p>©2025 FunTimeWithSilver. All Rights Reserved.</p>
+        </div>
+    </head>
+
+    <body>
+        <header class="header">
+            <a href="index.php" class="logo">Kurukato.</a>
+            <nav class="navbar">
+                <a href="index.php">Home</a>
+                <a href="FunTimeAbout.php">About</a>
+                <a href="FunTimeServices.php" class="active">Services</a>
+                <a href="FunTimeMyWorks.php">My Works</a>
+                <a href="FunTimeContacts.php">Contacts</a>
+            </nav>
+        </header>
+        <section class="Service-container">
+            <h1 class="heading">My Services</h1>
+            <div class="service-wrapper">
+                <div class="service-box">
+                    <i class='bx  bx-film'  ></i>  
+                    <h2>Video Editor</h2>
+                    <p>I am well verse at manipulating clips of videos such as making montages, reels, short advertisements, and polishing videos records and I assure you the best of quality of I can provide.</p>
+                </div>
+                <div class="service-box">
+                    <i class='bx  bx-joystick'  ></i>   
+                    <h2>Game Developer</h2>
+                    <p>I can now make some simple scipting either for roblox or other indie softwares to be flexible at possible to produce the industry standard quality.</p>
+                </div>
+                <div class="service-box">
+                    <i class='bx  bx-video'  ></i> 
+                    <h2>Content Creator</h2>
+                    <p>I'm a Youtube content creator featuring different kinds of games that I find interesting, while my viewers some tutorials about those featured games.</p>
+                </div>
+                <div class="service-box">
+                    <i class='bx bx-game'></i>
+                    <h2>Animator</h2>
+                    <p>I'm a self employed animator that can make and produce quality short simple animations like for GIF and some simple dynamic animations. </p>
+                </div> 
+                <div class="service-box">
+                    <i class='bx bx-palette' ></i>
+                    <h2>Graphic Artist</h2>
+                    <p>I can provide grapgic designs for brochure, magazines, logos, tarpaulin, event cards, etc...</p>
+                </div>
+                <div class="service-box">
+                    <i class='bx  bx-images'  ></i>
+                    <h2>Photo Editor</h2>
+                    <p>I am well specialize in photo manipulating such as changing color grading, backgroud or things need to be remove, custom sizing, enchancing images, and any more with assurance of its good quality.</p>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>

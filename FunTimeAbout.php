@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <div class="TopImg">
+            <img src="Bg_Head.jpg" alt="display">
+        </div>
+        <div class="copyright">
+            <p>©2025 FunTimeWithSilver. All Rights Reserved.</p>
+        </div>
+    </head>
+
+    <body>
+        <header class="header">
+            <a href="index.php" class="logo">FunTimeWithSilver.</a>
+            <nav class="navbar">
+                <a href="index.php">Home</a>
+                <a href="FunTimeAbout.php" class="active">About</a>
+                <a href="FunTimeServices.php">Services</a>
+                <a href="FunTimeMyWorks.php">My Works</a>
+                <a href="FunTimeContacts.php">Contacts</a>
+            </nav>
+        </header>
+
+        <div class="Introduction">
+            <h2>Greetings!!... I'm Silver, FunTimeWithSilver</h2>
+        </div>
+        
+        <div class="about-content">
+            <div class="text first-text">I'm a</div>
+                <div class="box b2">Content Creator.</div>
+                <div class="box b3">Game Developer.</div>
+                <div class="box b4">Animator.</div>
+                <div class="box b5">Graphic Artist.</div>
+                <div class="box b6">Video Editor.</div>
+        </div>
+        <div class="description-content">
+            <p>Hi my name's FunTimeWithSilver but you can just call me Silver, and I'm a digital artist since making arts has always been my forte ever since. I can also make some simple animation such as Gif and short animation while also being a graphic artist and photo editor. So I am looking forward to be working with you!. </p>
+        </div>
+    </body>
+</html>
